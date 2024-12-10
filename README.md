@@ -95,6 +95,25 @@ APIs enhance functionality by enabling internal systems and external services to
 - Install POSTMAN, a robust API client for testing APIs.
 - Use the attached Excel document to explore and practice with publicly available APIs in POSTMAN.
 
+##Practice with POSTMAN
+
+-Create and edit workspaces and collections.
+
+Validate responses by adding tests:
+
+-Testing status codes.
+
+-Testing headers.
+
+-Testing cookies.
+
+-Testing response time.
+
+-Testing response body.
+
+-Testing JSON Schema.
+
+-Create variables to simplify and manage your API tests.
 ---
 
 Start exploring APIs and unlock new capabilities for your projects!
